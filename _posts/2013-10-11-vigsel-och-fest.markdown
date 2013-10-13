@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Praktisk Information"
+title:  "Vigsel och fest"
 ---
 
 ### Roof party
