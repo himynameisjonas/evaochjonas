@@ -1,5 +1,11 @@
+$white: #FDFDFA;
+$gray: #868D97;
+$yellow: #F0E6A5;
+$peach: #E4C5A4;
+$green: #99AF96;
 
-@import 'variables';
+$font-strict: 'Amatic SC', cursive;
+$font-curly: 'Dancing Script', cursive;
 
 /*****************************************************************************/
 /*
@@ -31,12 +37,28 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 0 0 1em 0; }
 
-a         { color: $green; }
+a {
+  color: $green;
+  @extend .color-animation;
+}
+.color-animation {
+  transition: color 0.5s linear;
+  -moz-transition: color 0.5s linear;    /* FF3.7+ */
+  -o-transition: color 0.5s linear;      /* Opera 10.5 */
+  -webkit-transition: color 0.5s linear; /* Saf3.2+, Chrome */
+}
+
 a:hover   { color: $green; }
 a:visited { color: $green; }
 
 .curly {
   font-family: $font-curly;
+}
+
+.box {
+  max-width: 700px;
+  width: 90%;
+  margin: 0 auto;
 }
 
 header {
@@ -57,14 +79,19 @@ header {
     font-size: 50%;
   }
   .curly {
+    @extend .color-animation;
     display: block;
     color: $yellow;
+  }
+
+  a:hover .curly {
+    color: $green;
   }
 }
 
 nav {
-  max-width: 90%;
-  margin: 0 auto 40px;
+  @extend .box;
+  margin-bottom: 40px;
   padding: 7px 0;
   border-top: 1px solid $gray;
   border-bottom: 1px solid $gray;
@@ -84,13 +111,15 @@ nav {
         color: $green;
       }
     }
+    &:after, &:before {
+      color: $green;
+      content: '♥';
+    }
   }
 }
 
 article {
-  max-width: 600px;
-  width: 90%;
-  margin: 0 auto;
+  @extend .box;
   padding-bottom: 100px;
 
   h2 {
