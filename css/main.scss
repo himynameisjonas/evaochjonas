@@ -161,14 +161,16 @@ article {
   }
 
   img {
-    padding: 5px;
+    padding: 15px;
     background: #fff;
-    border: 1px solid $gray;
+    border: 1px solid $peach;
     max-width: 100%;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin: 10px 0;
+    margin: 10px auto;
+    display: block;
+    border-radius: 3px;
   }
 
   .post {
