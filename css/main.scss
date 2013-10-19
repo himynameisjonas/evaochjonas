@@ -7,6 +7,14 @@ $green: #99AF96;
 $font-strict: 'Amatic SC', cursive;
 $font-curly: 'Dancing Script', cursive;
 
+
+@-webkit-keyframes example {
+   0%   { color: $yellow; }
+   33%   { color: $green; }
+   66%   { color: $peach; }
+   100%   { color: $yellow; }
+}
+
 /*****************************************************************************/
 /*
 /* Common
@@ -39,13 +47,21 @@ p { margin: 0 0 1em 0; }
 
 a {
   color: $green;
-  @extend .color-animation;
+  @extend .color-transition;
 }
-.color-animation {
+.color-transition {
   transition: color 0.5s linear;
   -moz-transition: color 0.5s linear;    /* FF3.7+ */
   -o-transition: color 0.5s linear;      /* Opera 10.5 */
   -webkit-transition: color 0.5s linear; /* Saf3.2+, Chrome */
+}
+.color-animation {
+  -webkit-animation-name: example;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-timing-function: ease;
+  -webkit-animation-delay: 0;
+  -webkit-animation-iteration-count: infinite;
+  // -webkit-animation-direction: alternate;
 }
 
 a:hover   { color: $green; }
@@ -79,7 +95,6 @@ header {
     font-size: 50%;
   }
   .curly {
-    @extend .color-animation;
     display: block;
     color: $yellow;
   }
@@ -88,6 +103,7 @@ header {
     color: $green;
   }
 }
+
 
 nav {
   @extend .box;
@@ -114,6 +130,7 @@ nav {
     &:after, &:before {
       color: $green;
       content: '♥';
+      @extend .color-animation;
     }
   }
 }
