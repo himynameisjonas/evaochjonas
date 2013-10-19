@@ -22,15 +22,25 @@ GEM
     jekyll-sass (1.1.0)
       jekyll (>= 0.10.0)
       sass (>= 3.0.0)
+    kgio (2.8.0)
     liquid (2.5.3)
     maruku (0.7.0)
     posix-spawn (0.3.6)
     pygments.rb (0.5.2)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
+    rack (1.5.2)
+    rack-jekyll (0.4.1)
+      jekyll (>= 0.12.0, < 2.0)
+      rack (~> 1.5.0)
+    raindrops (0.11.0)
     redcarpet (2.3.0)
     safe_yaml (0.7.1)
     sass (3.2.12)
+    unicorn (4.6.3)
+      kgio (~> 2.6)
+      rack
+      raindrops (~> 0.7)
     yajl-ruby (1.1.0)
 
 PLATFORMS
@@ -39,3 +49,5 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-sass
+  rack-jekyll
+  unicorn

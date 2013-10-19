@@ -1,3 +1,10 @@
 name: Eva och Jonas
 destination: public
 permalink: none
+exclude:
+ - unicorn.rb
+ - Procfile
+ - Gemfile
+ - Gemfile.lock
+ - config.ru
+ - vendor
