@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Om oss"
+title: Om oss
+published: true
 ---
 
-Eva Brusman och Jonas Forsberg
+Vi är Eva Brusman och Jonas Forsberg.
