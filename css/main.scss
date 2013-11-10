@@ -138,10 +138,11 @@ article {
 
   h2 {
     color: $green;
-    font-size: 50px;
+    font-size: 2em;
   }
 
   h3 {
+    font-size: 1.5em;
     color: $green;
     text-align: center;
   }
@@ -157,6 +158,12 @@ article {
     margin: 10px auto;
     display: block;
     border-radius: 3px;
+  }
+  &.people {
+    img {
+      max-width: 40%;
+      min-width: 200px;
+    }
   }
 
   .post {
