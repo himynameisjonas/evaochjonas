@@ -159,10 +159,15 @@ article {
     display: block;
     border-radius: 3px;
   }
+
+  .rsvp-response {
+    display: none;
+    text-align: center;
+  }
+
   &.people {
     img {
       max-width: 40%;
-      min-width: 200px;
     }
   }
 
