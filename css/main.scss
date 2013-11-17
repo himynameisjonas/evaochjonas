@@ -139,6 +139,12 @@ article {
     font-size: 18px;
     line-height: 1.5em;
   }
+  blockquote {
+    font-style: italic;
+    margin: 20px 20px 20px 5px;
+    border-left: 2px solid $green;
+    padding-left: 20px;
+  }
 
   h2 {
     color: $green;

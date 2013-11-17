@@ -12,7 +12,11 @@ Efter vigseln samlas vi utanför logen och skålar tillsammans i en brudskål in
 Middagen börjar kl 17:00 och det kommer bjudas på mat och dryck.  Den avslutas sedan med bröllopstårta och kaffe innan det blir fest med dans och bar.
 
 ### Klädsel
-_Mörk kostym eller kavaj?!?!?!?!_
+Kavaj.
+> Kavaj är numera den minst strikta av vedertagna klädkoder. För män innebär det hel kostym, inte udda kavaj. Kostymen kan vara mörk eller ljus beroende på sammanhanget. Skjortan bör vara ljus. Fluga kan användas istället för slips. Kvinnor bär klänning, kjol, dräkt eller byxdress som är elegantare än vanlig vardagsklädsel och omkring knälång.
+
+### Barn
+Vår dag firar vi i vuxet sällskap men givetvis är spädbarn välkomna.
 
 ### Fotografi och filmning
 Det vore roligt om alla som har kamera och filmkamera skulle vilja hjälpa oss att dokumentera denna dag.
