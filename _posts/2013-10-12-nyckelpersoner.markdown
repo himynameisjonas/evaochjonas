@@ -4,8 +4,8 @@ title:  "Nyckelpersoner"
 class: people
 ---
 
+<h3>Brudpar – Eva och Jonas</h3>
 <div id="brudpar">
-  <h3>Brudpar – Eva och Jonas</h3>
   <img src="/images/eva2.jpg" alt="Eva"/>
   <img src="/images/jonas2.jpg" alt="Jonas"/>
 </div>
