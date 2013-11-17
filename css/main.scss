@@ -10,10 +10,10 @@ $font-strict: 'Roboto Slab', serif;
 
 
 .color-transition {
-  transition: color 0.5s linear;
-  -moz-transition: color 0.5s linear;    /* FF3.7+ */
-  -o-transition: color 0.5s linear;      /* Opera 10.5 */
-  -webkit-transition: color 0.5s linear; /* Saf3.2+, Chrome */
+  transition: color 0.3s linear;
+  -moz-transition: color 0.3s linear;    /* FF3.7+ */
+  -o-transition: color 0.3s linear;      /* Opera 10.5 */
+  -webkit-transition: color 0.3s linear; /* Saf3.2+, Chrome */
 }
 
 .strict {
@@ -67,8 +67,11 @@ a {
   margin: 0 auto;
 }
 
-a:hover   { color: $green; }
 a:visited { color: $green; }
+a:hover   {
+  color: $peach;
+  text-decoration: none;
+}
 
 header {
   margin: 70px 0 70px 0;
@@ -159,10 +162,6 @@ article {
     margin: 10px auto;
     display: block;
     border-radius: 3px;
-  }
-
-  a:hover {
-    color: $peach;
   }
 
   .rsvp-response {
