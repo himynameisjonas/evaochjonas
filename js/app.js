@@ -43,4 +43,22 @@ $(function(){
   });
 
   $('.rsvp-response.'+ readCookie('rsvp')).show();
+
+
+  if ($('#map').length) {
+    var locations = $('#map').data('locations');
+
+    var mapOptions = {
+      zoom: 15,
+      center: new google.maps.LatLng(locations[1].lat, locations[1].long),
+      mapTypeId: google.maps.MapTypeId.HYBRID
+    };
+    var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+
+    for (var i = 0; i < locations.length; i++) {
+      var location = new google.maps.LatLng(locations[i].lat,locations[i].long);
+      var marker = new google.maps.Marker({icon: locations[i].icon, position: location, map: map, title: locations[i].title});
+    };
+
+  };
 })

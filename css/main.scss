@@ -246,3 +246,14 @@ form {
     }
   }
 }
+
+#map {
+  img {
+    border: none;
+    padding: 0;
+    background: none;
+    max-width: none;
+  }
+  height: 400px;
+  margin-bottom: 1em;
+}
