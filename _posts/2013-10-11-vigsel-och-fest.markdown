@@ -13,7 +13,6 @@ Middagen börjar kl 17:00 och det kommer bjudas på mat och dryck.  Den avslutas
 
 ### Klädsel
 Kavaj.
-> Kavaj är numera den minst strikta av vedertagna klädkoder. För män innebär det hel kostym, inte udda kavaj. Kostymen kan vara mörk eller ljus beroende på sammanhanget. Skjortan bör vara ljus. Fluga kan användas istället för slips. Kvinnor bär klänning, kjol, dräkt eller byxdress som är elegantare än vanlig vardagsklädsel och omkring knälång.
 
 ### Barn
 Vår dag firar vi i vuxet sällskap men givetvis är spädbarn välkomna.
