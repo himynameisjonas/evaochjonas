@@ -90,6 +90,7 @@ header {
   .curly {
     display: block;
     color: $yellow;
+    @extend .color-transition;
   }
 
   a:hover .curly {
@@ -158,6 +159,10 @@ article {
     margin: 10px auto;
     display: block;
     border-radius: 3px;
+  }
+
+  a:hover {
+    color: $peach;
   }
 
   .rsvp-response {
