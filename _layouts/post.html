@@ -5,9 +5,9 @@ layout: default
     <h2>{{ page.title }}</h2>
 
     <div class="post">
+        {{ content }}
         {% if page.locations %}
             <div id="map" data-locations='{{ page.locations | jsonify }}'></div>
         {% endif %}
-        {{ content }}
     </div>
 </article>
