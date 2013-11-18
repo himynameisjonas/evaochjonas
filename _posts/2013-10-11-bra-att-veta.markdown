@@ -23,6 +23,7 @@ Det vore roligt om alla som har kamera och filmkamera skulle vilja hjälpa oss a
 ### Övrigt
 Vår dag firar vi i vuxet sällskap men givetvis är spädbarn välkomna. Medtag gärna kläder och/eller accessoarer anpassat för ett opålitligt svenskt sensommarväder.
 
-### Karta
+### Karta och vägbeskrivning
+Kör hit, och sen lite dit. Men akta dig för diket.
 
 [hotel]: http://www.vardnas.com/
