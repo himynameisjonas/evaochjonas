@@ -14,6 +14,9 @@ Middagen börjar kl 17:00 och det kommer bjudas på mat och dryck.  Den avslutas
 ### Klädsel
 Kavaj.
 
+### Tal/Spex
+Tal, spex, sånger eller ev. andra framträdanden anmäls till vår toastmaster Magnus Brusman. Nås antingen på [mail](mailto:mankan111@gmail.com) eller 0738-002038.
+
 ### Dagen efter
 Dagen efter tänkte vi äta frukost på [Vårdnäs stiftgård][plats]. De som vill och kan är hjärtligt välkomna att göra oss sällskap.
 
