@@ -21,9 +21,13 @@ För dom som vill/behöver boende så ligger [Vårdnäs stiftgård][hotel], som 
 Det vore roligt om alla som har kamera och filmkamera skulle vilja hjälpa oss att dokumentera denna dag.
 
 ### Övrigt
-Vår dag firar vi i vuxet sällskap men givetvis är spädbarn välkomna. Medtag gärna kläder och/eller accessoarer anpassat för ett opålitligt svenskt sensommarväder.
+Vår dag firar vi i vuxet sällskap men givetvis är spädbarn välkomna. Vigsel kommer ske utomhus så klä er därefter.
 
 ### Karta och vägbeskrivning
-Kör hit, och sen lite dit. Men akta dig för diket.
+Från E4an  
+Ta avfart 111  
+Kör mot Vimmerby, vägnummer 34  
+Sväng vänster mot "Västerby"  
+Vid Vårdnäskyrka, följ skylt mot Vårdnäshembyggsförening.
 
 [hotel]: http://www.vardnas.com/
