@@ -1,3 +1,5 @@
+@import "bourbon/bourbon";
+
 $white: #fcfcf3;
 $gray: #868D97;
 $yellow: #F0E6A5;
@@ -6,14 +8,11 @@ $green: #99AF96;
 
 $font-hand: 'Amatic SC', cursive;
 $font-curly: 'Dancing Script', cursive;
-$font-strict: 'Roboto Slab', serif;
+$font-strict: 'Roboto Slab', $georgia;
 
 
 .color-transition {
-  transition: color 0.3s linear;
-  -moz-transition: color 0.3s linear;    /* FF3.7+ */
-  -o-transition: color 0.3s linear;      /* Opera 10.5 */
-  -webkit-transition: color 0.3s linear; /* Saf3.2+, Chrome */
+  @include transition (color 0.3s linear);
 }
 
 .strict {
@@ -143,6 +142,7 @@ article {
   h2 {
     color: $green;
     font-size: 2em;
+    margin-bottom: 0.4em;
   }
 
   h3 {
@@ -156,9 +156,7 @@ article {
     background: #fff;
     border: 1px solid $yellow ;
     max-width: 100%;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+    @include box-sizing(border-box);
     margin: 10px auto;
     display: block;
     border-radius: 3px;
@@ -200,9 +198,7 @@ form {
     font-size: 30px;
     padding: 5px;
     margin-bottom: 1.5em;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+    @include box-sizing(border-box);
   }
 
   .submit-button {
@@ -235,7 +231,6 @@ form {
     border-bottom: 2px solid darken($green, 20);
     border-radius: 5px;
     cursor: pointer;
-    -webkit-box-shadow: inset 0 -2px darken($green, 20);
     box-shadow: inset 0 -2px darken($green, 20);
 
     &:active {
