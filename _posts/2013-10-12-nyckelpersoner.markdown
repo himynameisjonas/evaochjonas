@@ -16,6 +16,9 @@ class: people
 ### Brudtärna – Maria Hansson
 ![Maria](/images/maria2.jpg)
 
+### Brudtärna – Mathilda Tassinari Rogalin
+![Mathilda](/images/mathilda2.jpg)
+
 ### Marsalk – David Forsberg
 ![David](/images/david2.jpg)
 
