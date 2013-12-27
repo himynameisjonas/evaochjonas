@@ -3,8 +3,8 @@
 $white: #fcfcf3;
 $gray: #868D97;
 $yellow: #F0E6A5;
-$peach: #E4C5A4;
-$green: #99AF96;
+$peach: #e9b685;
+$green: #609357;
 
 $font-hand: 'Amatic SC', cursive;
 $font-curly: 'Dancing Script', cursive;
@@ -91,7 +91,7 @@ header {
   }
   .curly {
     display: block;
-    color: $yellow;
+    color: $green;
     @extend .color-transition;
   }
 
@@ -124,7 +124,7 @@ nav {
       }
     }
     &:after, &:before {
-      color: $green;
+      color: transparentize($peach, 0.8);
       content: '♥ ♥';
       @media screen and (max-width: 780px) {
           display: block;
@@ -173,9 +173,6 @@ article {
   &.people {
     img {
       max-width: 40%;
-    }
-    h3:nth-child(1){
-      color: $peach;
     }
 
     div#brudpar {
