@@ -55,10 +55,6 @@ p {
   margin: 0 0 1em 0;
 }
 
-a {
-  color: $green;
-  @extend .color-transition;
-}
 
 .box {
   max-width: 700px;
@@ -66,10 +62,15 @@ a {
   margin: 0 auto;
 }
 
-a:visited { color: $green; }
-a:hover   {
-  color: $peach;
-  text-decoration: none;
+a {
+  @extend .color-transition;
+  &, &:visited {
+    color: $peach;
+  }
+  &:hover {
+    color: $green;
+    text-decoration: none;
+  }
 }
 
 header {
@@ -78,6 +79,10 @@ header {
   a, a:visited, a:active {
     text-decoration: none;
     color: $gray;
+  }
+
+  a:hover .curly {
+    color: $yellow;
   }
 
   h1 {
@@ -93,10 +98,6 @@ header {
     display: block;
     color: $green;
     @extend .color-transition;
-  }
-
-  a:hover .curly {
-    color: $peach;
   }
 }
 
