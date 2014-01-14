@@ -24,7 +24,7 @@ Det vore roligt om alla som har kamera och filmkamera skulle vilja hjälpa oss a
 
 ### Övrigt
 Det vi önskar oss mest av allt är att ni är med på vår dag, men om ni ändå vill ge någon gåva så blir vi glada för ett bidrag till vår bröllopsresa, på konto XXX.
-Vår dag firar vi i vuxet sällskap men givetvis är ammandes spädbarn välkomna. Vigseln kommer ske utomhus så klä er därefter.
+Vår dag vill vi fira i vuxet sällskap men givetvis är ammande spädbarn välkomna. Vigseln kommer ske utomhus så klä er därefter.
 
 ### Vägbeskrivning och karta
 Från E4an  
