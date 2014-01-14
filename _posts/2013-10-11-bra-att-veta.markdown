@@ -31,6 +31,6 @@ Från E4an
 Ta avfart 111  
 Kör mot Vimmerby, vägnummer 34  
 Sväng vänster mot "Västerby"  
-Vid Vårdnäskyrka, följ skylt mot Vårdnäshembygdsgården.
+Vid Vårdnäskyrka, följ skylt mot Vårdnäs hembygdsgården.
 
 [hotel]: http://www.vardnas.com/
