@@ -14,7 +14,7 @@ published: true
 ---
 
 ### Vårdnäs Hembygdsgård
-Vårdnäs hembygdsgård ligger vackert beläget vid sjön Stora Rängen 30 min söder om Linköping.
+Vårdnäs hembygdsgård ligger vackert beläget vid sjön Stora Rängen, 30 minuter söder om Linköping.
 
 ### Boende
 För dom som vill/behöver boende så ligger [Vårdnäs stiftgård][hotel], som även har hotellverksamhet, intill hembygsgården.
