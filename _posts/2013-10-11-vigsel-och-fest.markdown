@@ -11,7 +11,7 @@ Vigseln kommer att äga rum kl 15.30 lördagen den 2:e augusti 2014 utomhus i an
 Efter vigseln bjuds det på en tvårätters middag på Vårdnäs hembygdsgård, för att sedan avslutas med bröllopstårta och kaffe innan det blir fest med dans och bar.
 
 ### Klädsel
-Kavaj.
+Kavaj. [\*][kavaj]
 
 ### Tal/Spex
 Tal, spex, sånger eller ev. andra framträdanden anmäls till vår toastmaster Magnus Brusman. Nås antingen på [e-post](mailto:mankan111@gmail.com) eller 0738-002038.
@@ -20,3 +20,4 @@ Tal, spex, sånger eller ev. andra framträdanden anmäls till vår toastmaster 
 Dagen efter tänkte vi äta frukost kl? på [Vårdnäs stiftgård][plats]. De som vill och kan är hjärtligt välkomna att göra oss sällskap.
 
 [plats]: /bra-att-veta.html
+[kavaj]: /kavaj.html
