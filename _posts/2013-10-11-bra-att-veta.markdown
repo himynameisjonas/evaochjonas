@@ -21,9 +21,10 @@ För dom som vill/behöver boende så ligger [Vårdnäs stiftgård][hotel], som 
 Det vore roligt om alla som har kamera och filmkamera skulle vilja hjälpa oss att dokumentera denna dag.
 
 ### Övrigt
+Vi önskar oss inget mer än att ni är med på vår dag, men i fall ni ändå vill ge någon gåva så blir vi glada för ett bidrag till vår bröllopsresa.
 Vår dag firar vi i vuxet sällskap men givetvis är spädbarn välkomna. Vigsel kommer ske utomhus så klä er därefter.
 
-### Karta och vägbeskrivning
+### Vägbeskrivning och karta
 Från E4an  
 Ta avfart 111  
 Kör mot Vimmerby, vägnummer 34  
