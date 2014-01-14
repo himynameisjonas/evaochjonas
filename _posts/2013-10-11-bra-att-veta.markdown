@@ -23,7 +23,7 @@ För de som vill/behöver boende så ligger [Vårdnäs stiftgård][hotel], som �
 Det vore roligt om alla som har kamera och filmkamera skulle vilja hjälpa oss att dokumentera denna dag.
 
 ### Övrigt
-Det vi önskar oss mest av allt är att ni är med på vår dag, men om ni ändå vill ge någon gåva, så blir vi glada för ett bidrag till vår bröllopsresa, på konto XXX.
+Det vi önskar oss mest av allt är att ni är med på vår dag, men om ni ändå vill ge någon gåva så blir vi glada för ett bidrag till vår bröllopsresa, på konto XXX.
 Vår dag firar vi i vuxet sällskap men givetvis är ammandes spädbarn välkomna. Vigseln kommer ske utomhus så klä er därefter.
 
 ### Vägbeskrivning och karta
