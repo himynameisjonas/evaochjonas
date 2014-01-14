@@ -25,7 +25,7 @@ Det vore roligt om alla som har kamera och filmkamera skulle vilja hjälpa oss a
 ### Övrigt
 Det vi önskar oss mest av allt är att ni är med på vår dag, men om ni ändå vill ge någon gåva så blir vi glada för ett bidrag till vår bröllopsresa, på konto 9252 2564641.
 
-Vår dag vill vi fira i vuxet sällskap men givetvis är ammande spädbarn välkomna.  Eftersom vigseln kommer ske utomhus ta gärna med er extra kläder efter väder.
+Vår dag vill vi fira i vuxet sällskap men givetvis är ammande spädbarn välkomna.  Eftersom vigseln kommer ske utomhus, medtag gärna paraply vid ev regn.
 
 ### Vägbeskrivning och karta
 Från E4an  
