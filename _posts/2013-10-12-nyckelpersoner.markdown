@@ -19,7 +19,7 @@ class: people
 ### Brudtärna – Mathilda Tassinari Rogalin
 ![Mathilda](/images/mathilda2.jpg)
 
-### Marsalk – David Forsberg
+### Marskalk – David Forsberg
 ![David](/images/david2.jpg)
 
 ### Toastmaster – Magnus Brusman
