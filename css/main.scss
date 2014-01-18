@@ -137,6 +137,8 @@ nav {
 article {
   @extend .box;
   @extend .strict;
+  color: darken($gray, 10%);
+
   padding-bottom: 100px;
   p {
     font-size: 18px;
