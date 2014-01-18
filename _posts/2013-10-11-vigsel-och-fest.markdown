@@ -17,7 +17,7 @@ Kavaj. [\*][kavaj]
 Tal, spex, sånger eller ev. andra framträdanden anmäls till vår toastmaster Magnus Brusman. Nås antingen på [e-post](mailto:mankan111@gmail.com) eller 0738-002038.
 
 ### Dagen efter
-Dagen efter tänkte vi äta frukost kl? på [Vårdnäs stiftgård][plats]. De som vill och kan är hjärtligt välkomna att göra oss sällskap.
+Dagen efter tänkte vi äta frukost kl 09:15 på [Vårdnäs stiftgård][plats]. De som vill och kan är hjärtligt välkomna att göra oss sällskap.
 
 [plats]: /bra-att-veta.html
 [kavaj]: /kavaj.html
