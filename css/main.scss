@@ -139,7 +139,6 @@ article {
   @extend .strict;
   color: darken($gray, 10%);
 
-  padding-bottom: 100px;
   p {
     font-size: 18px;
     line-height: 1.6em;
@@ -264,4 +263,13 @@ form {
   }
   height: 400px;
   margin-bottom: 1em;
+}
+
+footer {
+  text-align: center;
+  img {
+    width: 50px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+  }
 }
