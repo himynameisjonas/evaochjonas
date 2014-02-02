@@ -16,14 +16,21 @@ $(function(){
 
   var form = $('form');
   if (form.length) {
+    var submit = form.find("input:submit");
+    submit.data('text', submit.val());
+
     $('form').submit(function(evt){
       evt.preventDefault();
+      submit.attr('disabled', 'disabled');
+      submit.val('Skickar...');
       $.ajax({
         dataType: 'jsonp',
         url: $(this).attr('action').replace("?", "/ajax?"),
         data: $(this).serialize()
       }).done(function() {
         $("#osa, article>h2").fadeOut(function(){
+          submit.removeAttr('disabled');
+          submit.val(submit.data('text'));
           $('.rsvp-response, .rsvp-response .'+ $('input:radio[name=rsvp]:checked').val()).fadeIn();
         });
       });

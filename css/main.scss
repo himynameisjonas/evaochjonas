@@ -253,6 +253,13 @@ form {
       -webkit-box-shadow: none;
       box-shadow: none;
     }
+    &[disabled="disabled"] {
+      border-bottom: 0;
+      box-shadow: none;
+      background: $gray;
+      color: lighter($gray, 20);
+      text-shadow: none;
+    }
   }
 }
 
