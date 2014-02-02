@@ -167,9 +167,11 @@ article {
     border-radius: 3px;
   }
 
-  .rsvp-response {
-    display: none;
-    text-align: center;
+  .rsvp-response{
+    &, .no, .yes {
+      display: none;
+      text-align: center;
+    }
   }
 
   &.about-us {

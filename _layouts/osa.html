@@ -1,28 +1,45 @@
 ---
 layout: post
 ---
-  {{ content }}
+  <div id="osa">
+    {{ content }}
+    <form action="http://getsimpleform.com/messages?form_api_token={{ site.simpleform_api_key }}" method="post">
+        <input type='hidden' name='redirect_to' value='http://bröllop.evaochjonas.se/tack.html' />
 
-  <form action="http://getsimpleform.com/messages?form_api_token={{ site.simpleform_api_key }}" method="post">
-      <input type='hidden' name='redirect_to' value='http://bröllop.evaochjonas.se/tack.html' />
+        <label for="name">Namn</label>
+        <input type='text' id="name" name='name' />
 
-      <label for="name">Namn</label>
-      <input type='text' id="name" name='name' />
+        <label for="rsvp">Kommer delta på bröllopet?</label>
+        <div class="radio">
+            <label>
+                <input type="radio" id="rsvp" name="rsvp" value="yes" checked>
+                Yes asså
+            </label>
+            <label>
+                <input type="radio" name="rsvp" value="no">
+                Nope
+            </label>
+        </div>
 
-      <label for="rsvp">Kommer delta på bröllopet?</label>
-      <div class="radio">
-          <label>
-              <input type="radio" id="rsvp" name="rsvp" value="yes" checked>
-              Yes asså
-          </label>
-          <label>
-              <input type="radio" name="rsvp" value="no">
-              Nope
-          </label>
-      </div>
+        <label for="other">Allergier/Matpreferenser samt övrig info</label>
+        <textarea id="other" name='other'></textarea>
 
-      <label for="other">Allergier/Matpreferenser samt övrig info</label>
-      <textarea id="other" name='other'></textarea>
+        <input type='submit' value='Skicka' class="submit-button"/>
+    </form>
+  </div>
 
-      <input type='submit' value='Skicka' class="submit-button"/>
-  </form>
+  <div class="rsvp-response">
+    <h2>Tack för ditt svar</h2>
+
+    <div class="no">
+      <p>Du kommer vara saknad</p>
+      <iframe width="560" height="315" src="//www.youtube.com/embed/oabcM9SOF-E" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="yes">
+      <p>Vi ser fram emot att få fira vår dag med dig</p>
+      <img src="/images/happy-dance.gif"/>
+    </div>
+    <p>
+      <a href="/osa.html">Tillbaka</a>
+    </p>
+  </div>
