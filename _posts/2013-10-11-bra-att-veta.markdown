@@ -14,7 +14,7 @@ published: true
 ---
 
 ### Vårdnäs Hembygdsgård
-Vårdnäs hembygdsgård ligger vackert beläget vid sjön Stora Rängen, 30 minuter söder om Linköping.
+Vårdnäs hembygdsgård ligger vackert belägen vid sjön Stora Rängen, 30 minuter söder om Linköping.
 
 ### Boende
 För de som vill/behöver boende så ligger [Vårdnäs stiftgård][hotel], som även har hotellverksamhet, intill hembygdsgården.
@@ -25,7 +25,7 @@ Det vore roligt om alla som har kamera och filmkamera skulle vilja hjälpa oss a
 ### Övrigt
 Det vi önskar oss mest av allt är att ni är med på vår dag, men om ni ändå vill ge någon gåva så blir vi glada för ett bidrag till vår bröllopsresa, på konto 9252 2564641.
 
-Vår dag vill vi fira i vuxet sällskap men givetvis är ammande spädbarn välkomna.
+Vår dag vill vi fira i vuxet sällskap men givetvis är spädbarn ammas välkomna.
 
 Eftersom vigseln kommer ske utomhus, medtag gärna paraply vid ev regn.
 

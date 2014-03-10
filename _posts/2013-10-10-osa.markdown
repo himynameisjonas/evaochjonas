@@ -3,7 +3,7 @@ layout: osa
 title:  "OSA"
 ---
 
-Skicka svarsformuläret en gång för varje inbjuden person, det går alltså bra att skicka det här forumläret flera gånger.
+Skicka svarsformuläret en gång för varje inbjuden person, det går alltså bra att skicka det här formuläret flera gånger.
 
 Frågor och funderingar hänvisar vi till vår toastmaster Magnus Brusman som nås på [e-post](mailto:mankan111@gmail.com) eller telefon 0738-002038.
 

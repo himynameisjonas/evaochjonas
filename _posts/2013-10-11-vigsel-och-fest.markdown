@@ -8,7 +8,7 @@ published: true
 Vigseln kommer att äga rum kl 15.30 lördagen den 2:e augusti 2014 utomhus i anslutning till [Vårdnäs hembygsgård][plats].
 
 ### Middag och fest
-Efter vigseln bjuds det på en tvårätters middag på Vårdnäs hembygdsgård, för att sedan avslutas med bröllopstårta och kaffe innan det blir fest med dans och bar.
+Efter vigseln bjuds det på en tvårätters middag på Vårdnäs hembygdsgård, Vi avrundar middagen med bröllopstårta och kaffe, innan det blir fest med dans och bar.
 
 ### Klädsel
 Kavaj. [\*][kavaj]
