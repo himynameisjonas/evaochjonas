@@ -25,9 +25,9 @@ Det vore roligt om alla som har kamera och filmkamera skulle vilja hjälpa oss a
 ### Övrigt
 Det vi önskar oss mest av allt är att ni är med på vår dag, men om ni ändå vill ge någon gåva så blir vi glada för ett bidrag till vår bröllopsresa, på konto 9252 2564641.
 
-Vår dag vill vi fira i vuxet sällskap men givetvis är spädbarn ammas välkomna.
+Vår dag vill vi fira i vuxet sällskap men givetvis är spädbarn som ammas välkomna.
 
-Eftersom vigseln kommer ske utomhus, medtag gärna paraply vid ev regn.
+Vigseln kommer att ske utomhus, så tag gärna med paraply ifall det blir regn.
 
 ### Frågor/Kontakt
 Frågor och funderingar hänvisar vi till vår toastmaster Magnus Brusman som nås på [e-post](mailto:mankan111@gmail.com) eller telefon 0738-002038.
