@@ -1,0 +1,13 @@
+---
+layout: post
+title: Bilder
+published: true
+---
+
+I festlokalen hade vi en stor skärm som med hjälp av [Silarapp](http://silarapp.com) visade ett flöde över alla bilder som postades med hashtagen #evaochjonas på Instagram och Twitter. Den kan besökas på [silarapp.com/evaochjonas](http://silarapp.com/evaochjonas).
+
+Vi har även samlat ihop bilder från kvällen här på sidan:
+* [Bilder som taggats med #evaochjonas på instagram](/bilder/instagram.html)
+* [Bilder som togs med fotoautomaten](/bilder/fotoautomat.html)
+
+Om ni har bilder/filmer från kvällen så blir vi oerhört glada om ni skickar dom till oss.
